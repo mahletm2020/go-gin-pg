@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"net/http"
-
+   "github.com/golang-jwt/jwt/v5"
 	"github.com/gin-gonic/gin"
 )
 type User struct {
@@ -49,5 +49,4 @@ func main() {
 	}
 
 }
-
-idk y but all it say is  "Couldn't create the new user."
+u stoped at  installing the jwt packae and importing it next time do the password part using bycrypt and then implemen it using this bae doc( Mukesh Murugan)​.
