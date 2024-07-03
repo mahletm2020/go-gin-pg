@@ -49,4 +49,4 @@ func main() {
 	}
 
 }
-u stoped at  installing the jwt packae and importing it next time do the password part using bycrypt and then implemen it using this bae doc( Mukesh Murugan)​.
+//u stoped at  installing the jwt packae and importing it next time do the password part using bycrypt and then implemen it using this bae doc( Mukesh Murugan)​.
